@@ -34,4 +34,3 @@ if __name__ == "__main__":
       break
     else:
       print(f"Bulls:{bulls} , cows:{cows}")
-
