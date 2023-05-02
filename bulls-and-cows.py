@@ -9,7 +9,7 @@ def generate_numbers():
         if num not in numbers:
             numbers.append(num)
 
-    print("0과 9 사이의 서로 다른 숫자 4개를 랜덤한 순서로 뽑았습니다.\n")
+    print("\n0과 9 사이의 서로 다른 숫자 4개를 랜덤한 순서로 뽑았습니다.\n")
     return numbers
 
 
