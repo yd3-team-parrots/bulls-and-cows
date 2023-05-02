@@ -1,3 +1,3 @@
 # bulls-and-cows
 
-빠이팅
+I am not good at coding, man.
