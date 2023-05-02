@@ -1,4 +1,7 @@
 import random
+
+
+#test !!!
 # 컴퓨터가 뽑는다.
 def computer_select_4number():
   num_list = []
